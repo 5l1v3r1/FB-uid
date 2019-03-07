@@ -20,8 +20,7 @@ print "$blue    ██║     ██████╔╝    ╚██████�
 print "$blue    ╚═╝     ╚═════╝      ╚═════╝ ╚═╝╚═════╝     \n\n";
 print "$okegreen ══════════════════════════════════════════════\n\n";
 
-print "$cyan Base$red >$white ";
-$base = trim(fgets(STDIN));
+$base = 1000;
 print "$cyan Total ID$red >$white ";
 $jumlah = trim(fgets(STDIN));
 
